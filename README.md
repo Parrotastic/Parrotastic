@@ -3,7 +3,7 @@
 I'm Parrotastic! 🦜
 
 - 🔭 I’m currently working on a visual novel - Forbidden Memories.
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m currently learning JavaScript.
 - 😄 Pronouns: She/Her They/Them
 - ⚡ Fun fact: Life is more fun with a rubber chicken purse.
 
