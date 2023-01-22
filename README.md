@@ -6,7 +6,6 @@ I'm Parrotastic! 🦜
 - 📚 I’m currently reading Head First Design Patterns by Eric Freeman & Elisabeth Robson.
 - 🌱 I’m currently learning JavaScript.
 - 😄 Pronouns: She/Her They/Them
-- ⚡ Fun fact: I'mm meltiiiing.
 
 <!--
 **Parrotastic/Parrotastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
