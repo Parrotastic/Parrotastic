@@ -5,7 +5,8 @@ I'm Parrotastic! 🦜
 - 🔭 I’m currently working on a visual novel - Forbidden Memories.
 - 📚 I’m currently reading Head First Design Patterns by Eric Freeman & Elisabeth Robson.
 - 🌱 I’m currently learning JavaScript.
-- 😄 Pronouns: She/Her They/Them
+- 😄 Pronouns: She/Her They/Them.
+- ⚡ Fun fact: Cork. 
 
 <!--
 **Parrotastic/Parrotastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
