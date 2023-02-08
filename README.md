@@ -4,7 +4,7 @@ I'm Parrotastic! 🦜
 
 - 🔭 I’m currently working on a visual novel - Forbidden Memories.
 - 📚 I’m currently reading Head First Design Patterns by Eric Freeman & Elisabeth Robson.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript & APIs.
 - 😄 Pronouns: She/Her They/Them.
 - ⚡ Fun fact: Cork. 
 
