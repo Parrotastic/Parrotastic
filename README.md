@@ -2,11 +2,11 @@
 
 I'm Parrotastic! 🦜
 
-- 🔭 I’m currently working on a visual novel - Forbidden Memories.
+- 🔭 I’m currently working on a Pomodoro App for Android.
 - 📚 I’m currently reading Head First Design Patterns by Eric Freeman & Elisabeth Robson.
 - 🌱 I’m currently learning JavaScript & APIs.
 - 😄 Pronouns: She/Her They/Them.
-- ⚡ Fun fact: Cork. 
+- ⚡ Fun fact: Sleeping cats do snore.
 
 <!--
 **Parrotastic/Parrotastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
