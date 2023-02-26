@@ -2,7 +2,7 @@
 
 I'm Parrotastic! 🦜
 
-- 🔭 I’m currently working on a Pomodoro App for Android.
+- 🔭 I’m currently working on a sound machine app for Android.
 - 📚 I’m currently reading Head First Design Patterns by Eric Freeman & Elisabeth Robson.
 - 🌱 I’m currently learning JavaScript & APIs.
 - 😄 Pronouns: She/Her They/Them.
