@@ -2,7 +2,7 @@
 
 I'm Parrotastic! 🦜
 
-- 🔭 I’m currently working on my Gamedev.js 2023 entry!
+- 🔭 I’m currently working on my Android sound app!
 - 📚 I’m currently reading Head First Design Patterns by Eric Freeman & Elisabeth Robson.
 - 🌱 I’m currently learning JavaScript & APIs.
 - 😄 Pronouns: She/Her They/Them.
