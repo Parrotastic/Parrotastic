@@ -2,11 +2,10 @@
 
 I'm Parrotastic! 🦜
 
-- 🔭 I’m currently working on my Android sound app!
-- 📚 I’m currently reading Head First Design Patterns by Eric Freeman & Elisabeth Robson.
-- 🌱 I’m currently learning JavaScript & APIs.
+- 🔭 I’m currently working on a shiny new React Portfolio page!
+- 🌱 I’m currently learning React.
 - 😄 Pronouns: She/Her They/Them.
-- ⚡ Fun fact: Sleeping cats do snore.
+- ⚡ Fun fact: Flamingos.
 
 <!--
 **Parrotastic/Parrotastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
